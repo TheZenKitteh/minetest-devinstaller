@@ -19,6 +19,7 @@ ok_message "Minetest dev sources will be downloaded after you click ok.."
 git clone git://github.com/celeron55/minetest.git
 cd minetest/games
 git clone git://github.com/celeron55/minetest_game.git
+git clone git://github.com/minetest/common.git
 cd ..
 
 # Configure and compile

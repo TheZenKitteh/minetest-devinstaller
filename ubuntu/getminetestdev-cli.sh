@@ -9,6 +9,7 @@ git clone git://github.com/celeron55/minetest.git
 echo "Obtaining latest minetest_game"
 cd minetest/games
 git clone git://github.com/celeron55/minetest_game.git
+git clone git://github.com/minetest/common.git
 cd ..
 
 echo "Configuring and compiling.."
